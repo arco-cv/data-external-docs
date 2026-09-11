@@ -1,0 +1,32 @@
+{
+  "spec_version": "0.4.2",
+  "generated_at": "2026-09-03T15:45:00Z",
+  "confirmed_tier": "none",
+  "criteria": [
+    {
+      "id": "BRZ-1.1",
+      "tier": "bronze",
+      "status": "pass"
+    },
+    {
+      "id": "BRZ-2.1",
+      "tier": "bronze",
+      "status": "pass"
+    },
+    {
+      "id": "BRZ-2.2",
+      "tier": "bronze",
+      "status": "pass"
+    },
+    {
+      "id": "BRZ-10.1",
+      "tier": "bronze",
+      "status": "fail"
+    },
+    {
+      "id": "BRZ-10.2",
+      "tier": "bronze",
+      "status": "pass"
+    }
+  ]
+}
